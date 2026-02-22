@@ -44,5 +44,6 @@ A visually stunning, high-performance parallax hero section built with vanilla H
 - `script.js` - Animation logic, Lenis initialization, and scroll-driven interactions.
 
 ---
+Live Demo :- https://scroll-driven-hero-section-animatio.vercel.app/
 
 Made with ❤️ by [Priya](https://github.com/Priyakumari0307)
